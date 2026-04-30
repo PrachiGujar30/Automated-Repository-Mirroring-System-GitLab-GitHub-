@@ -5,6 +5,7 @@ This ensures:
 - Continuous backup of source code
 - High availability across platforms
 - Improved disaster recovery readiness
+![Architecture](Architecture.png)
 ---
 ## Prerequisites
 - Before starting, ensure you have:
